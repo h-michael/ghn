@@ -1,0 +1,18 @@
+{
+  "name": "ghn",
+  "productName": "ghn",
+  "version": "1.0.0",
+  "description": "Specify GitHub repository events watcher",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Hirokazu Hata",
+    "email": "h.hata.ai.t@gmail.com",
+    "url": "https://github.com/h-michael"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r babel-register ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "npm run electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
