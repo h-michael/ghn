@@ -104,7 +104,7 @@
     "react-router-dom": "^4.2.2",
     "react-router-redux": "5.0.0-alpha.9",
     "redux": "^4.0.4",
-    "redux-persist": "^5.9.1",
+    "redux-persist": "^6.0.0",
     "redux-persist-electron-storage": "^1.1.2",
     "redux-thunk": "^2.2.0",
     "semantic-ui-react": "^0.80.2",
