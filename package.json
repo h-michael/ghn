@@ -147,7 +147,7 @@
     "eslint-import-resolver-webpack": "^0.10.0",
     "eslint-plugin-compat": "^2.2.0",
     "eslint-plugin-flowtype": "^2.46.3",
-    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-promise": "^3.7.0",
