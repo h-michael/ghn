@@ -3319,7 +3319,8 @@ electron-publish@20.43.0:
 
 electron-react-devtools@firejune/electron-react-devtools:
   version "0.5.3"
-  resolved "https://codeload.github.com/firejune/electron-react-devtools/tar.gz/2c09b5aa482f1477d3393599a7f05ab0d9490a97"
+  uid "3eaafedcec9cf291e9377a2cdd422ea2354526e1"
+  resolved "https://codeload.github.com/firejune/electron-react-devtools/tar.gz/3eaafedcec9cf291e9377a2cdd422ea2354526e1"
 
 electron-rebuild@^1.7.3:
   version "1.8.5"
