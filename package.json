@@ -131,7 +131,7 @@
     "chalk": "^2.4.1",
     "concurrently": "^3.5.1",
     "cross-env": "^5.1.6",
-    "cross-spawn": "^6.0.5",
+    "cross-spawn": "^7.0.2",
     "css-loader": "^3.4.2",
     "detect-port": "^1.2.3",
     "devtron": "^1.4.0",
