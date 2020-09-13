@@ -115,7 +115,7 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.3",
-    "babel-jest": "^22.4.4",
+    "babel-jest": "^23.6.0",
     "babel-loader": "^7.1.4",
     "babel-plugin-add-module-exports": "^1.0.2",
     "babel-plugin-dev-expression": "^0.2.1",
